@@ -1,6 +1,6 @@
-Projeto crud de endereços
+#Projeto crud de endereços - Front end
 
-# Instalação
+## Instalação
 
 1. Instalar as dependencias
 ```bash
@@ -10,6 +10,3 @@ yarn # or npm install
 ```bash
 yarn # or npm run dev
 ```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
