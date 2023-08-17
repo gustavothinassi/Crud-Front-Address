@@ -1,32 +1,14 @@
 # crud address app (crud-address)
 
- project crud address
+# Instalação
 
-## Install the dependencies
+1. Instalar as dependencias
 ```bash
-yarn
-# or
-npm install
+yarn # or npm install
 ```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+2. Iniciar projeto
 ```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
+yarn # or npm run dev
 ```
 
 ### Customize the configuration
